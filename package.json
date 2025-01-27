@@ -1,0 +1,23 @@
+{
+  "name": "rest_api_2222",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+      "dev":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yashash1111/REST_API_2222.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yashash1111/REST_API_2222/issues"
+  },
+  "homepage": "https://github.com/yashash1111/REST_API_2222#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
